@@ -21,4 +21,4 @@ Run the following commands:\
 `npm run seed`\
 `npm start`
 
-### Link to the application running on Heroku: [The Tech Blog](https://foh-tech-blog.herokuapp.com/)
+### Link to the application running on Heroku: [The Tech Blog](https://glacial-fortress-10976.herokuapp.com/)
